@@ -14,4 +14,6 @@ def prepare_integer_array(
 
     unsorted: List[int] = [randint(min_value, max_value) for _ in range(size)]
     sorted_version: List[int] = sorted(unsorted)
+    print("Unsorted Array : ", unsorted, '\n')
+    print("Sorted Array : ", sorted_version, '\n')
     return unsorted, sorted_version
