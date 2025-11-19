@@ -4,7 +4,7 @@ Small collection of scripts for preparing random integer arrays and running
 sequential, binary, and interpolation search comparisons.
 
 ## Requirements
-- Python 3.10+ (no extra packages needed)
+- Python 3.10+ 
 
 ## Getting Started
 1. Clone or download the repository and open a terminal in the project folder.
